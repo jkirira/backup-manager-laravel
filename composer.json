@@ -1,13 +1,7 @@
 {
-  "name": "backup-manager/laravel",
+  "name": "jkirira/backup-manager-laravel",
   "description": "Database backup manager seamlessly integrated with Laravel 4 or 5 with user-definable procedures and support for S3, Dropbox, FTP, SFTP, and more.",
-  "authors": [
-    {
-      "name": "Shawn McCool",
-      "email": "shawn@heybigname.com",
-      "homepage": "https://shawnmc.cool"
-    }
-  ],
+  "authors": [],
   "require": {
     "backup-manager/backup-manager": "^3.0",
     "php": "^7.3||^7.4",
